@@ -28,7 +28,7 @@ Este lenguaje genera código Javascript, es decir, escribirás código Typescrip
 
 La siguiente tabla muestra algunas palabras clave del lenguaje TypeScript:
 
-![Palabras _Claves](img/Palabras_Claves.png)
+![Keywords](img/Keywords.PNG)
 
 
 
